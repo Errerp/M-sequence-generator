@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2023.1.1 (64-bit)
+# SW Build 3900603 on Fri Jun 16 19:31:24 MDT 2023
+# IP Build 3900379 on Sat Jun 17 05:28:05 MDT 2023
+# SharedData Build 3899622 on Fri Jun 16 03:34:24 MDT 2023
+# Start of session at: Wed Jun 18 14:48:59 2025
+# Process ID: 12408
+# Current directory: C:/Users/DDCS_Student/LFSR
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2740 C:\Users\DDCS_Student\LFSR\LFSR.xpr
+# Log file: C:/Users/DDCS_Student/LFSR/vivado.log
+# Journal file: C:/Users/DDCS_Student/LFSR\vivado.jou
+# Running On: PC-0x03, OS: Windows, CPU Frequency: 2904 MHz, CPU Physical cores: 8, Host memory: 16851 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/DDCS_Student/LFSR/LFSR.xpr
+update_compile_order -fileset sources_1
